@@ -1,0 +1,14 @@
+{
+    "name": "pacificnm/pacificnm-category-type",
+    "description": "Provides category types",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jaimie Garner",
+            "email": "pacificnm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
